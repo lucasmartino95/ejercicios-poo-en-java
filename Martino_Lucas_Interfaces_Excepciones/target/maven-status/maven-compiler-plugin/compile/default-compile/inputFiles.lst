@@ -1,0 +1,15 @@
+/home/lucas/NetBeansProjects/Martino_Lucas_Interfaces_Excepciones/src/main/java/Excepciones/ConversionNumero.java
+/home/lucas/NetBeansProjects/Martino_Lucas_Interfaces_Excepciones/src/main/java/Excepciones/DivisionSegura.java
+/home/lucas/NetBeansProjects/Martino_Lucas_Interfaces_Excepciones/src/main/java/Excepciones/ExcepcionPersonalizada.java
+/home/lucas/NetBeansProjects/Martino_Lucas_Interfaces_Excepciones/src/main/java/Excepciones/LecturaArchivo.java
+/home/lucas/NetBeansProjects/Martino_Lucas_Interfaces_Excepciones/src/main/java/Excepciones/LecturaArchivoWithResources.java
+/home/lucas/NetBeansProjects/Martino_Lucas_Interfaces_Excepciones/src/main/java/Interfaces/Cliente.java
+/home/lucas/NetBeansProjects/Martino_Lucas_Interfaces_Excepciones/src/main/java/Interfaces/Main.java
+/home/lucas/NetBeansProjects/Martino_Lucas_Interfaces_Excepciones/src/main/java/Interfaces/Notificable.java
+/home/lucas/NetBeansProjects/Martino_Lucas_Interfaces_Excepciones/src/main/java/Interfaces/Pagable.java
+/home/lucas/NetBeansProjects/Martino_Lucas_Interfaces_Excepciones/src/main/java/Interfaces/Pago.java
+/home/lucas/NetBeansProjects/Martino_Lucas_Interfaces_Excepciones/src/main/java/Interfaces/PagoConDescuento.java
+/home/lucas/NetBeansProjects/Martino_Lucas_Interfaces_Excepciones/src/main/java/Interfaces/PayPal.java
+/home/lucas/NetBeansProjects/Martino_Lucas_Interfaces_Excepciones/src/main/java/Interfaces/Pedido.java
+/home/lucas/NetBeansProjects/Martino_Lucas_Interfaces_Excepciones/src/main/java/Interfaces/Producto.java
+/home/lucas/NetBeansProjects/Martino_Lucas_Interfaces_Excepciones/src/main/java/Interfaces/TarjetaDeCredito.java
